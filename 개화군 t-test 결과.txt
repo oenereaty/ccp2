@@ -1,0 +1,15 @@
+t-test 결과:
+$height
+
+	Welch Two Sample t-test
+
+data:  개화군 by group
+t = 3.0499, df = 35.85, p-value = 0.004287
+alternative hypothesis: true difference in means between group group1 and group group2 is not equal to 0
+95 percent confidence interval:
+ 0.3766364 1.8723636
+sample estimates:
+mean in group group1 mean in group group2 
+              6.2090               5.0845 
+
+

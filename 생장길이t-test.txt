@@ -1,0 +1,15 @@
+t-test 결과:
+$height
+
+	Welch Two Sample t-test
+
+data:  생장길이 by group
+t = 3.5029, df = 33.864, p-value = 0.001315
+alternative hypothesis: true difference in means between group group1 and group group2 is not equal to 0
+95 percent confidence interval:
+  2.822879 10.627471
+sample estimates:
+mean in group group1 mean in group group2 
+            17.19018             10.46500 
+
+
